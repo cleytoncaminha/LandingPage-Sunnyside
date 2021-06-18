@@ -1,0 +1,129 @@
+*{
+    font-family: 'Fraunces', serif;;
+}
+
+.info{
+    display: flex;
+    flex-direction: row-reverse;
+    align-content: center;
+    justify-content: center;
+    }
+
+    .infostand{
+        display: flex;
+        align-content: center;
+        justify-content: center;
+        }
+
+    .info img{
+        width: 50%;
+        height: 50%;
+        
+          
+    }
+
+    .infostand img{
+        width: 50%;
+        height: 50%;
+        
+          
+    }
+
+    .text{
+        align-self: center;
+        font-family: 'Fraunces', serif;
+        color: hsl(210, 4%, 67%);
+        margin-left: 10%;
+        margin-right: 4%;
+        
+        
+       
+    }
+    .title{
+    font-size: 30px;
+    color: hsl(212, 27%, 19%);
+    margin-bottom: 5%;
+    }
+    
+    #first{
+    grid-area: 1/1;  
+    }
+        
+    .learn{
+        margin-top: 10%;
+        margin-left: 3%;
+        color: hsl(212, 27%, 19%);
+        border-bottom: hsla(51, 100%, 85%, 0.795) solid 8px;
+        width: 25%;
+        border-radius: 4px;
+        
+    }
+    
+    .learn1{
+        margin-top: 10%;
+        margin-left: 3%;
+        color: hsl(212, 27%, 19%);
+        border-bottom: hsla(7, 91%, 68%, 0.473) solid 8px;
+        width: 25%;
+        border-radius:4px;
+    }
+    
+    .service{
+        display: flex;
+        
+    }
+    .design{
+        background-image: url("../images/desktop/image-graphic-design.jpg");
+        background-size: cover;
+        width: 50vw;
+        height: 55vh;
+        font-size: 18px;
+        color: hsl(167, 40%, 24%);
+        
+        
+    }
+    
+    .photography{
+        background-image: url("../images/desktop/image-photography.jpg");
+        background-size: cover;
+        width: 50vw;
+        height: 55vh;
+        font-size: 18px;
+        color: hsl(198, 62%, 26%);
+    }
+
+    .design h3{
+        text-align: center;
+        margin-top: 50%;
+        font-size: 30px;
+        font-weight: 900 ;
+    }
+
+
+    .design p{
+        width: 60%;
+        margin-top: 3%;
+        margin-left: 20%;
+        text-align: center;
+        font-weight: 700;
+        font-size: 18px;
+        
+    }
+    .photography h3{
+        text-align: center;
+        margin-top: 50%;
+        font-size: 30px;
+        font-weight: 900 ;
+    }
+
+
+    .photography p{
+        width: 60%;
+        margin-top: 3%;
+        margin-left: 20%;
+        text-align: center;
+        font-weight: 700;
+        font-size: 18px;
+        
+    }
+    
