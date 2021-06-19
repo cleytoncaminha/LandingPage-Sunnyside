@@ -3,18 +3,25 @@ text-align: center;
 align-self: center;
 margin-top: 10%;
 color: gray;
-font-size: 18px;
+font-size: 15px;
+letter-spacing: 0.5vw;
 }
-
-.director{
+.testimonials{
+    display: flex;
+    margin-top: 5%;
+    justify-content: center;
+    
+}
+.client{
     display: flex;
     flex-direction: column;
-    width: 33vw;
+    width: 28vw;
     height: 70vh;
     align-content: center;
     justify-content: center;
+    margin-left: 3%;
 }
-.director img{
+.client img{
     align-self: center;
     border-radius: 50%;
 }
@@ -38,4 +45,7 @@ font-size: 18px;
     margin-top: 5%;
     font-size: 15px;
     color: rgba(128, 128, 128, 0.63);
+}
+.images{
+    display: flex;
 }
