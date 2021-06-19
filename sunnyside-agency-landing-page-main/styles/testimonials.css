@@ -1,0 +1,41 @@
+.clienttestimonials{
+text-align: center;
+align-self: center;
+margin-top: 10%;
+color: gray;
+font-size: 18px;
+}
+
+.director{
+    display: flex;
+    flex-direction: column;
+    width: 33vw;
+    height: 70vh;
+    align-content: center;
+    justify-content: center;
+}
+.director img{
+    align-self: center;
+    border-radius: 50%;
+}
+.testimonial{
+    margin-top: 20%;
+    margin-bottom: 10%;
+    font-size: 18px;
+    font-family: 'Barlow', sans-serif;
+    text-align: center;
+    color: gray;
+    line-height: 200%;
+}
+
+.name{
+    margin-top: 20%;
+    text-align: center;
+    align-self: center;
+    font-size: 20px;
+}
+.name p{
+    margin-top: 5%;
+    font-size: 15px;
+    color: rgba(128, 128, 128, 0.63);
+}
