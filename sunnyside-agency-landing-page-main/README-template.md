@@ -7,8 +7,6 @@
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-  - [Hecho con](#Hecho con)
-  - [Que aprendi](#Que aprendi)
 
 
 ## Overview
